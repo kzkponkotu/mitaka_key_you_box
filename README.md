@@ -1,12 +1,7 @@
 # mitaka_key_you_box
 
-* 箱と鍵の台のstlファイル
-
-* 鍵と歯車のstlファイル1
-
-* 鍵と歯車のstlファイル2
-
-* 鍵と歯車のstlファイル3
+* [箱と鍵の台のモデリングデータ](http://openjscad.org/#https://raw.githubusercontent.com/kzkponkotu/kagi_jscad/master/box.jscad)
+* [鍵と歯車のモデリングデータ](http://openjscad.org/#https://raw.githubusercontent.com/kzkponkotu/kagi_jscad/master/key.jscad)
 
 ## 使い方
 
