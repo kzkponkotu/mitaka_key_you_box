@@ -1,6 +1,6 @@
 # mitaka_key_you_box
 
-* 箱のstlファイル
+* 箱と鍵の台のstlファイル
 
 * 鍵と歯車のstlファイル1
 
